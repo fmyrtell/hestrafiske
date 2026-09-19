@@ -1,0 +1,14 @@
+{
+  "name": "Hestrafiske",
+  "short_name": "Hestrafiske",
+  "description": "Fiskeguide för Stengårdshultasjön och Lillesjön i Hestra",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#eaf1ee",
+  "theme_color": "#2f6f77",
+  "icons": [
+    { "src": "img/app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "img/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
